@@ -1,12 +1,16 @@
 [Ctrl]키 누르고 마우스 클릭 
 
-## 2019학년도 경남 수학문화관 교사체험수학 직무연수강의(2019.07.27)
+## 2019학년도 알지오매스와 함께하는 STEAM교실 운영(2019.08.01)
 
-공학도구(AlgeoMath)를 활용한 수학 수업의 실제  (경남과학고등학교 교사 민은기)
+공학도구(AlgeoMath)를 활용한 Steam 활동  (경남과학고등학교 교사 민은기)
 
 
 ## *AlgeoMath 전체 강의 순서
-- ### 1 차시
+- ### 1 차시 : TBA
+- ### 2 차시 : TBA
+- ### 3 차시 : TBA 
+
+=======================================================
 
   ### 처음시작에 보여드린 자료
   ##### -회전하는 선분들 ... AlgeoMath : http://me2.do/GANxVeFW YouTube : https://youtu.be/XUZu9xX12WY
@@ -24,12 +28,12 @@
   ### 공학도구를 활용하는 이유 및 탐구 수업 활동
   ##### -선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
-- ### 2 차시
+
   ### 반복적인 수학적 실험은 블록코딩으로
   ##### -Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
   ##### -Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
   
-- ### 3 차시 
+
   ### 다른이에게 쉽게 알려주기
   ##### -알지오매스 빠르게 배우기 설명 YouTube : https://youtu.be/tzR765vg74E
   ##### -빠르게 배우기 : http://me2.do/5fS0J6mQ
@@ -42,7 +46,7 @@
   ### 체크박스를 활용한 자료만들기 
   ##### -평행선의 닮음비(길이가 변하는가?) AlgeoMath : http://me2.do/53QwHpgI pdf  : https://min7014.github.io/2019/2019072302.pdf YouTube : https://youtu.be/vGJ_oArMQK8
 
-=======================================================
+
 
 
 
