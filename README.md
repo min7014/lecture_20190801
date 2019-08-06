@@ -6,12 +6,30 @@
 
 
 ## *AlgeoMath 전체 강의 순서
-- ### 1 차시 : Algeomath 기본사용
-- ### 2 차시 : 오심작도
-- ### 3 차시 : 정오각형 작도 및 어벤져스 방패 만들기
-- ### 4 차시 : 블록코딩 기본 및 -Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
-- ### 5 차시 : 블록코딩 기본 및 -Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
-- ### 6 차시 : -평행선의 닮음비(길이가 변하는가?) AlgeoMath : http://me2.do/53QwHpgI pdf  : https://min7014.github.io/2019/2019072302.pdf YouTube : https://youtu.be/vGJ_oArMQK8
+- ### 1 차시
+
+  ### Algeomath 기본사용
+  
+- ### 2 차시 
+
+  ### 오심작도
+  
+- ### 3 차시
+
+  ### 정오각형 작도 및 어벤져스 방패 만들기
+  
+- ### 4 차시, 5 차시
+
+  ### 반복적인 수학적 실험은 블록코딩으로
+  ##### -Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
+  ##### -Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
+
+- ### 6 차시
+
+
+  ### 체크박스를 활용한 자료만들기 
+  ##### -평행선의 닮음비(길이가 변하는가?) AlgeoMath : http://me2.do/53QwHpgI pdf  : https://min7014.github.io/2019/2019072302.pdf YouTube : https://youtu.be/vGJ_oArMQK8
+
 
 =======================================================
 
